@@ -13,10 +13,17 @@ console.log("myName is", myName.length, "characters long.");
 
 console.log("myName includes b", myName.toUpperCase().includes("B"));
 
-myName = "Bees"
+myName = "Bees";
 
-console.log("myName has uppercase:", myName !== myName.toLowerCase())
-console.log("myName has lowercase:", myName !== myName.toUpperCase())
+console.log("myName has uppercase:", myName !== myName.toLowerCase());
+console.log("myName has lowercase:", myName !== myName.toUpperCase());
 
-const PI = 3.141592653589
-console.log(PI.toFixed(2))
+const PI = 3.141592653589;
+
+console.log(PI.toFixed(2));
+
+// Get a random number between 1-100
+
+const randomNumber = Math.floor(Math.random() * 100) + 1;
+
+console.log("random number:", randomNumber);
