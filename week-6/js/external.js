@@ -27,3 +27,15 @@ console.log(PI.toFixed(2));
 const randomNumber = Math.floor(Math.random() * 100) + 1;
 
 console.log("random number:", randomNumber);
+
+console.log(Math.PI - PI, PI.toString().length);
+
+console.log(PI, PI.toString());
+
+console.log("loose check", PI == PI.toString());
+
+console.log("strict check", PI === Number(PI.toString()));
+
+console.log("PI type:" , typeof PI)
+
+console.log("myName:" , typeof myName)
