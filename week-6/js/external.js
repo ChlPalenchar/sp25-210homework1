@@ -17,3 +17,6 @@ myName = "Bees"
 
 console.log("myName has uppercase:", myName !== myName.toLowerCase())
 console.log("myName has lowercase:", myName !== myName.toUpperCase())
+
+const PI = 3.141592653589
+console.log(PI.toFixed(2))
