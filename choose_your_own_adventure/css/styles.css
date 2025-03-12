@@ -49,5 +49,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    /* style button later */
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #ffffff;
 }
