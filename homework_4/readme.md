@@ -2,7 +2,7 @@
 
 ### Story Summary
 
-A short horror story about trying to find your missing friend who went camping. I went with this in particular because I really enjoy analog horror and how it looks in a text format.
+A short horror story about trying to find your missing friend who went camping. I went with this in particular because I really enjoy analog horror and how it looks in a pure text format.
 
 ### Key Takeaways
 
