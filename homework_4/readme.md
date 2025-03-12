@@ -10,4 +10,4 @@ Html is the main foundation of a webpage and can be further enhanced through thi
 
 ### Live Link
 
-[blog page](https://github.com/ChlPalenchar/sp25-210homework1/blob/main/homework_4/index.html)
+(https://github.com/ChlPalenchar/sp25-210homework1/blob/main/homework_4/index.html)
