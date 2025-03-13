@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Home](https://{username}.github.io/{reponame}/midterm)
+[Home](https://ChlPalenchar.github.io/sp25-210homework1/midterm)
